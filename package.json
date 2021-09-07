@@ -1,0 +1,15 @@
+{
+  "name": "jest-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Parv Jain",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.1.0",
+    "moment": "^2.29.1"
+  }
+}
